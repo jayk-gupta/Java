@@ -17,9 +17,11 @@ public class Primitives {
         boolean ans = true;
 
 // Note : There are also classes available for the primitive dataTypes
-        
+
 
 //        String: It is not primitive
         String name = "jay";
+//       a is identifier: name of variable,class,packages,functions etc; literals right side data value
+        int a = 10;
     }
 }
