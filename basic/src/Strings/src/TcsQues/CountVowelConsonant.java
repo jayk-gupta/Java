@@ -8,7 +8,7 @@ public class CountVowelConsonant {
         int vowel = 0;
         int consonant = 0;
         for (int i = 0; i < ch.length; i++) {
-         
+
         }
     }
 
