@@ -17,7 +17,7 @@ public class CheckNumber {
     static boolean checkPalindrome(int num) {
         int originalNum = num;
         int sum = 0;
-        int r = 0, q = 0;
+        int r = 0;
         while (num > 0) {
             r = num % 10;
             num = num / 10;
